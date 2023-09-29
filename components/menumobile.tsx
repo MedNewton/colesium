@@ -26,7 +26,7 @@ const fourthFont = localFont({
   src: "../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Regular.otf",
 });
 
-const MenuIPadPro1291: NextPage = () => {
+function MenuIPadPro1291(){
   const onHomeTextClick = useCallback(() => {
     // Add your code here
   }, []);
